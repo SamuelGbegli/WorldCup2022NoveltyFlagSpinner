@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>    <None Remove="Flags\Argentina.png" />
+    <None Remove="Flags\Australia.png" />
+    <None Remove="Flags\Belgium.png" />
+    <None Remove="Flags\Brazil.png" />
+    <None Remove="Flags\Cameroon.png" />
+    <None Remove="Flags\Canada.png" />
+    <None Remove="Flags\Costa Rica.png" />
+    <None Remove="Flags\Croatia.png" />
+    <None Remove="Flags\Denmark.png" />
+    <None Remove="Flags\Ecuador.png" />
+    <None Remove="Flags\England.png" />
+    <None Remove="Flags\France.png" />
+    <None Remove="Flags\Germany.png" />
+    <None Remove="Flags\Ghana.png" />
+    <None Remove="Flags\Iran.png" />
+    <None Remove="Flags\Japan.png" />
+    <None Remove="Flags\Mexico.png" />
+    <None Remove="Flags\Morocco.png" />
+    <None Remove="Flags\Netherlands.png" />
+    <None Remove="Flags\Poland.png" />
+    <None Remove="Flags\Portugal.png" />
+    <None Remove="Flags\Qatar.png" />
+    <None Remove="Flags\Saudi Arabia.png" />
+    <None Remove="Flags\Senegal.png" />
+    <None Remove="Flags\Serbia.png" />
+    <None Remove="Flags\South Korea.png" />
+    <None Remove="Flags\Spain.png" />
+    <None Remove="Flags\Switzerland.png" />
+    <None Remove="Flags\Tunisia.png" />
+    <None Remove="Flags\United States.png" />
+    <None Remove="Flags\Untitled.png" />
+    <None Remove="Flags\Uruguay.png" />
+    <None Remove="Flags\Wales.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Flags\Canada.png" />
+  </ItemGroup>
+
+  <ItemGroup>    <Resource Include="Flags\Argentina.png" />
+    <Resource Include="Flags\Australia.png" />
+    <Resource Include="Flags\Belgium.png" />
+    <Resource Include="Flags\Brazil.png" />
+    <Resource Include="Flags\Cameroon.png" />
+    <Resource Include="Flags\Costa Rica.png" />
+    <Resource Include="Flags\Croatia.png" />
+    <Resource Include="Flags\Denmark.png" />
+    <Resource Include="Flags\England.png" />
+    <Resource Include="Flags\Ecuador.png" />
+    <Resource Include="Flags\France.png" />
+    <Resource Include="Flags\Germany.png" />
+    <Resource Include="Flags\Ghana.png" />
+    <Resource Include="Flags\Iran.png" />
+    <Resource Include="Flags\Japan.png" />
+    <Resource Include="Flags\Mexico.png" />
+    <Resource Include="Flags\Morocco.png" />
+    <Resource Include="Flags\Netherlands.png" />
+    <Resource Include="Flags\Poland.png" />
+    <Resource Include="Flags\Portugal.png" />
+    <Resource Include="Flags\Qatar.png" />
+    <Resource Include="Flags\Saudi Arabia.png" />
+    <Resource Include="Flags\Senegal.png" />
+    <Resource Include="Flags\Serbia.png" />
+    <Resource Include="Flags\South Korea.png" />
+    <Resource Include="Flags\Spain.png" />
+    <Resource Include="Flags\Switzerland.png" />
+    <Resource Include="Flags\Tunisia.png" />
+    <Resource Include="Flags\United States.png" />
+    <Resource Include="Flags\Uruguay.png" />
+    <Resource Include="Flags\Wales.png" />
+  </ItemGroup>
+
+</Project>
