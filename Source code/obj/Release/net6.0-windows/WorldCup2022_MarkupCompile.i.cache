@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\samue\source\repos\WorldCup2022\obj\Release\net6.0-windows\
+C:\Users\samue\source\repos\WorldCup2022\Source code\obj\Release\net6.0-windows\
 WorldCup2022
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\samue\source\repos\WorldCup2022\App.xaml
+C:\Users\samue\source\repos\WorldCup2022\Source code\App.xaml
 11407045341
 
 6191124570
 194-1103864946
 MainWindow.xaml;
 
-True
+False
 
