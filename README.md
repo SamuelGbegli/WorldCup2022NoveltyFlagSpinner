@@ -1,4 +1,4 @@
-# WorldCup2022NoveltyFlagSpinner
+# World Cup 2022 Novelty Flag Spinner
 
 This was a desktop application I made for the 2022 FIFA World Cup, inspired by the cover of Panini's sticker album for the tournament. A user can see the flags of the 32 teams in the tournament and make them spin by placing the cursor over it.
 
